@@ -1,5 +1,6 @@
 # Detergent Management System
 Hong Kong PolyU EIE Microcontroller Application Design Contest 2020-21 Project
+https://www.eie.polyu.edu.hk/event/madc2021-22/
 ## About the Contest
 https://www.rs-online.com/designspark/eie-microcontroller-application-design-contest-2020-21-1
 
