@@ -20,3 +20,5 @@ The idea is simple: We use force sensing resistors (FSRs) to measure the weight 
 This application can be used in hotels and lodges to provide a better room service with less manpower. Detergents will be reloaded just before they are running out. It can also be used for someone living alone. It provides a better house management. Moreover, it can also be applied for toilets in malls, plazas and public area for monitoring and refilling detergents.
 
 Comment from judges: The team builds a complete system for demonstration and it is good to have the circuit built on a PCB, especially they are Year 2 students only. The system can get a better result if they can use different calibration methods to make a more accurate measurement.
+
+![The outlook of the hardware part of the system](https://github.com/henrybun/Detergent-Management-System/blob/main/dms1_188d0b23b912f920fef93b806a8168fec91aad98.webp)
