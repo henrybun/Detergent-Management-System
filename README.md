@@ -21,4 +21,8 @@ This application can be used in hotels and lodges to provide a better room servi
 
 Comment from judges: The team builds a complete system for demonstration and it is good to have the circuit built on a PCB, especially they are Year 2 students only. The system can get a better result if they can use different calibration methods to make a more accurate measurement.
 
-![The outlook of the hardware part of the system](https://github.com/henrybun/Detergent-Management-System/blob/main/dms1_188d0b23b912f920fef93b806a8168fec91aad98.webp)
+![The outlook of the hardware part of the system](https://github.com/henrybun/Detergent-Management-System/blob/main/Outlook.webp)
+**The outlook of the hardware part of the system**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=AqbBYMw5fZA" target="_blank"><img src="http://img.youtube.com/vi/AqbBYMw5fZA/0.jpg" 
+alt="Demonstration video" width="240" height="180" border="10" /></a>
