@@ -24,6 +24,6 @@ Comment from judges: The team builds a complete system for demonstration and it 
 ![The outlook of the hardware part of the system](https://github.com/henrybun/Detergent-Management-System/blob/main/Outlook.webp)
 **The outlook of the hardware part of the system**
 
-###Click the below image to watch the demonstration video.
+### Click the below image to watch the demonstration video.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=AqbBYMw5fZA" target="_blank"><img src="http://img.youtube.com/vi/AqbBYMw5fZA/0.jpg" 
 alt="Demonstration video" width="960" height="720" border="10" /></a>
